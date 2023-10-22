@@ -1,6 +1,13 @@
 span {
   display: inline-block;
 }
+.animalpics{
+  width:100px;
+  height:100px;
+}
+body{
+  text-align:center;
+}
 /* span {
   display: inline-block;
   background-color: lightblue;
